@@ -1,0 +1,3 @@
+1. date – Represents the timestamp in ISO 8601 extended date format: YYYY-MM-DD.
+
+2. avg_monthly_price – Represents the average monthly price.

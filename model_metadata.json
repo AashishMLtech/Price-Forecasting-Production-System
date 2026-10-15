@@ -1,0 +1,19 @@
+{
+  "model_name": "SARIMAX",
+  "order": [
+    2,
+    1,
+    2
+  ],
+  "seasonal_order": [
+    0,
+    0,
+    0,
+    12
+  ],
+  "train_cutoff": "2025-09-01",
+  "forecast_horizon_months": 12,
+  "holdout_mae": 1119.16,
+  "holdout_mape_pct": 8.72,
+  "artifact_path": "sarimax_price_model.pkl"
+}
